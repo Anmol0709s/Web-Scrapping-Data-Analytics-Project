@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "postman-request": "^2.88.1-postman.31",
+    "xlsx": "^0.18.5"
+  }
+}
